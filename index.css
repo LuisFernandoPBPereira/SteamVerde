@@ -1,0 +1,26 @@
+body{
+    background-color:darkslateblue;
+}
+
+img{
+    height: 768px;
+    width: 1200px;
+    padding-left: 50px;
+}
+
+#titulo{
+    color:greenyellow;
+    text-align: center;
+}
+
+a{
+    color: red;
+    padding-left: 620px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+span{
+    color: white;
+    font-size: 18px;
+}
